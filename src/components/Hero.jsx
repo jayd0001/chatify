@@ -10,9 +10,8 @@ const Hero = () => {
         </button>
       </nav>
       <h1 className="head_text">
-        {" "}
         Summarize Articles with
-        <br className="max-md: hidden" />
+        <br className="max-md:hidden" />
         <span className="orange_gradient">OpenAI GPT-4</span>
       </h1>
       <h2 className="desc">Enhance your reading experience with Chatify Summarize, an innovative open-source tool designed to distill lengthy articles into concise and lucid summaries.</h2>
